@@ -1,0 +1,63 @@
+.main-title {
+  padding-top: 20px;
+  color: purple;
+  text-shadow: -2px 2px 0px #000000;
+  font-size: 50px;
+  text-align: center;
+}
+
+.sub-title {
+  padding-bottom: 40px;
+  color: #000000;
+  text-shadow: -2px 2px 0px #808080;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pad {
+  padding-left: 0px;
+  margin-top: 20px;
+    
+}
+
+.story {
+  border: 0px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+  background-color: #
+}
+
+.double_line {
+  height: 44px;
+}
+
+.quad_line {
+  height: 86px;
+  margin: 0px;
+  padding: 0px;
+  text-align: right;
+}
+
+.dodo {
+  border: 1px solid #C0C0C0;
+
+}
+
+
+#title {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#date {
+  text-align: right;
+}
+
+#likes {
+  text-align: right;
+}
+
+#debug {
+  margin-bottom: 100px;
+}
